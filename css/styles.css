@@ -1,0 +1,10 @@
+h1 {
+    padding: 15px;
+}
+a {
+  padding: 2px;
+  color:#d55b3e;
+}
+a:hover {
+    color:#febe7e
+}
